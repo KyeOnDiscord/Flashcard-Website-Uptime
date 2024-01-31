@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 96,
-    "timeWeek": 125,
+    "timeDay": 100,
+    "timeWeek": 122,
     "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "https://flashcardappbackend.kyedev.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/flashcardappbackend.kyedev.xyz.ico",
     "slug": "flashcards-app-website-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 788,
-    "timeWeek": 707,
-    "timeMonth": 682,
-    "timeYear": 701,
-    "dailyMinutesDown": {}
+    "time": 697,
+    "timeDay": 416,
+    "timeWeek": 624,
+    "timeMonth": 659,
+    "timeYear": 697,
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   }
 ]
